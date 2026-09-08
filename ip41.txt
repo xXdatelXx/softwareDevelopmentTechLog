@@ -4,3 +4,10 @@ First Name:  Mykola
 Last Name:   Ponomarenko
 Youtube link: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 // ================================================
+
+// ================================================
+Number:      26
+First Name:  Artem
+Last Name:   Cherednichenko
+YouTubeLink: https://www.youtube.com/watch?v=icKNhqxeWJk
+// ================================================
